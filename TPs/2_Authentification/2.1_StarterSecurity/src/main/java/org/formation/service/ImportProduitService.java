@@ -4,8 +4,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import javax.persistence.EntityNotFoundException;
 
+import jakarta.persistence.EntityNotFoundException;
 import org.formation.controller.rest.ResultImportDto;
 import org.formation.controller.rest.UpdateLineDto;
 import org.formation.model.FournisseurRepository;

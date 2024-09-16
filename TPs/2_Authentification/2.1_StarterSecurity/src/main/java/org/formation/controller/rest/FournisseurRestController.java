@@ -1,8 +1,9 @@
 package org.formation.controller.rest;
 
-import javax.persistence.EntityNotFoundException;
-import javax.validation.Valid;
 
+
+import jakarta.persistence.EntityNotFoundException;
+import jakarta.validation.Valid;
 import org.formation.model.Fournisseur;
 import org.formation.model.FournisseurRepository;
 import org.formation.model.Produit;

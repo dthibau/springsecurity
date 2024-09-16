@@ -10,8 +10,8 @@ import java.nio.file.Paths;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import javax.persistence.EntityNotFoundException;
 
+import jakarta.persistence.EntityNotFoundException;
 import org.formation.controller.rest.ResultImportDto;
 import org.formation.model.Produit;
 import org.formation.model.ProduitRepository;
